@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="bonsai.svg" alt="welcome to my github, with a pink cherry blossom bonsai growing below" width="560" />
+  <img src="bonsai.svg" alt="A pink cherry blossom bonsai growing" width="560" />
 </p>
